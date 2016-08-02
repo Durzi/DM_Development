@@ -1,1 +1,1 @@
-@import url(vendor/normalize.css);#Header nav{margin:0 auto;width:50%}#Header nav a{color:red}
+@import url(vendor/normalize.css);#header{position:relative;top:-30px;left:-20px;width:110%;height:125px;background:black;background:linear-gradient(#0C51E3, #000);transform:rotate(-2deg)}#header nav{margin:auto;width:80%}#header nav a{color:white}
