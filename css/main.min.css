@@ -1,1 +1,1 @@
-@import url(vendor/normalize.css);#Header nav{margin:0 auto;width:50%}#Header nav a{color:red}
+@import url(vendor/normalize.css);#Header nav{margin:0 auto;width:50%}#Header nav a{color:red}#Intro{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;justify-content:space-around;align-items:center;width:100%;background:#000;color:#fff}#Intro #matt-img{border-radius:50%;border:2px solid #0c51e3}#Intro #don-img{border-radius:50%;border:2px solid #0c51e3}#Intro img{height:250px;width:250px;margin:0 20px}#Intro #intro-content{width:70%;margin:20px}
